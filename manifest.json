@@ -1,0 +1,16 @@
+{
+  "short_name": "AI News",
+  "name": "AI News Aggregator",
+  "description": "技術ブログ、X、YouTubeなど様々なソースから最新のAI関連ニュースやコンテンツを集約し、各項目の要約とリンクを提供するアプリケーションです。",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "type": "image/svg+xml",
+      "sizes": "any"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#111827",
+  "background_color": "#111827"
+}
